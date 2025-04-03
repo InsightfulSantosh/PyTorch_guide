@@ -5,9 +5,13 @@ This comprehensive course will take you from a complete beginner to an advanced 
 
 📖 Course Structure:
 ✅ Module 1: Introduction to PyTorch
+
 ✅ Module 2: Understanding Tensors and Operations
+
 ✅ Module 3: Automatic Differentiation with torch.autograd
+
 ✅ Module 4: Building Neural Networks with torch.nn
+
 ✅ Module 5: Optimization and Training Deep Learning Models (torch.optim)
 ✅ Module 6: Data Handling with torch.utils.data and torchvision
 ✅ Module 7: Convolutional Neural Networks (CNNs)
